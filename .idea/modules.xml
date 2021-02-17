@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AverageRatingAndTotalRestaurantsByCuisine/AverageRatingAndTotalRestaurantsByCuisine.iml" filepath="$PROJECT_DIR$/AverageRatingAndTotalRestaurantsByCuisine/AverageRatingAndTotalRestaurantsByCuisine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EliteUsersBasedOnUsefulVotes/EliteUsersBasedOnUsefulVotes.iml" filepath="$PROJECT_DIR$/EliteUsersBasedOnUsefulVotes/EliteUsersBasedOnUsefulVotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestaurantsByStar/RestaurantsByStar.iml" filepath="$PROJECT_DIR$/RestaurantsByStar/RestaurantsByStar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SentimentAnalysisOfUserReviews/SentimentAnalysisOfUserReviews.iml" filepath="$PROJECT_DIR$/SentimentAnalysisOfUserReviews/SentimentAnalysisOfUserReviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SentimentAnalysisOfUserReviewsByRestaurant/SentimentAnalysisOfUserReviewsByRestaurant.iml" filepath="$PROJECT_DIR$/SentimentAnalysisOfUserReviewsByRestaurant/SentimentAnalysisOfUserReviewsByRestaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Top10RestaurantsByPositiveReviews/Top10RestaurantsByPositiveReviews.iml" filepath="$PROJECT_DIR$/Top10RestaurantsByPositiveReviews/Top10RestaurantsByPositiveReviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TopRestaurantsByState/TopRestaurantsByState.iml" filepath="$PROJECT_DIR$/TopRestaurantsByState/TopRestaurantsByState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TotalAndAverageRatingOfRestaurants/TotalAndAverageRatingOfRestaurants.iml" filepath="$PROJECT_DIR$/TotalAndAverageRatingOfRestaurants/TotalAndAverageRatingOfRestaurants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TotalRestaurantsByState/TotalRestaurantsByState.iml" filepath="$PROJECT_DIR$/TotalRestaurantsByState/TotalRestaurantsByState.iml" />
+    </modules>
+  </component>
+</project>
